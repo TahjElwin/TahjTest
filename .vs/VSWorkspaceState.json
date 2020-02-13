@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Views",
+    "\\app\\Views\\Home",
+    "\\app\\Views\\Shared",
+    "\\app\\wwwroot",
+    "\\app\\wwwroot\\css",
+    "\\app\\wwwroot\\images",
+    "\\app\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\app\\wwwroot\\images\\banner1.svg",
+  "PreviewInSolutionExplorer": false
+}
